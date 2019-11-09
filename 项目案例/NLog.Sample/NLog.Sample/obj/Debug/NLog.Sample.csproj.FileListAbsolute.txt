@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\bin\Debug\NLog.config
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\bin\Debug\NLog.Sample.exe.config
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\bin\Debug\NLog.Sample.exe
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\bin\Debug\NLog.Sample.pdb
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\bin\Debug\NLog.dll
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\bin\Debug\NLog.xml
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\obj\Debug\NLog.Sample.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\obj\Debug\NLog.Sample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\obj\Debug\NLog.Sample.csproj.CopyComplete
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\obj\Debug\NLog.Sample.exe
+C:\Users\Administrator\source\repos\NLog.Sample\NLog.Sample\obj\Debug\NLog.Sample.pdb
