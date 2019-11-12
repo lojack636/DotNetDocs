@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.0/Speak.cs \
+obj\Debug\netcoreapp3.0/SpeakGrpc.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.25.0/build/native/include/google/protobuf/empty.proto\
+ ../Protos/speak.proto
