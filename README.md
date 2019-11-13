@@ -2,12 +2,15 @@
 
 #### Log
 1. [NLog](https://nlog-project.org/) 
-2. Log4Net
+2. [Log4Net](http://logging.apache.org/log4net/)
 
 #### NoSql
 1. [Redis](https://redis.io/)
 2. [Memcached](https://memcached.org/)
 3. [MongoDb](https://www.mongodb.com/)
+
+#### Job
+1. [Quartz.Net](https://www.quartz-scheduler.net/)
 
 #### MQ
 1. [RabbitMQ](http://www.rabbitmq.com/)
@@ -18,4 +21,3 @@
 #### 其它
 1. [设计模式](https://github.com/AaronWu666/DotNetProjects/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 2. [Polly](https://github.com/App-vNext/Polly)
-
