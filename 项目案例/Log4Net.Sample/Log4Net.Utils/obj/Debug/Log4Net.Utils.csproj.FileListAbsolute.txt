@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Log4Net.Sample\Log4Net.Utils\bin\Debug\Log4Net.Utils.dll
+C:\Users\Administrator\source\repos\Log4Net.Sample\Log4Net.Utils\bin\Debug\Log4Net.Utils.pdb
+C:\Users\Administrator\source\repos\Log4Net.Sample\Log4Net.Utils\bin\Debug\log4net.dll
+C:\Users\Administrator\source\repos\Log4Net.Sample\Log4Net.Utils\bin\Debug\log4net.xml
+C:\Users\Administrator\source\repos\Log4Net.Sample\Log4Net.Utils\obj\Debug\Log4Net.Utils.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Log4Net.Sample\Log4Net.Utils\obj\Debug\Log4Net.Utils.dll
+C:\Users\Administrator\source\repos\Log4Net.Sample\Log4Net.Utils\obj\Debug\Log4Net.Utils.pdb
