@@ -1,0 +1,6 @@
+/packages
+/.vs
+/Common/bin
+/Common/obj
+/ConsoleTest/bin
+/ConsoleTest/obj

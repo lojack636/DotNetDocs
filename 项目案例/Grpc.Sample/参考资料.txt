@@ -1,3 +1,6 @@
 https://docs.microsoft.com/zh-cn/aspnet/core/grpc/?view=aspnetcore-3.0
 
 https://www.cnblogs.com/stulzq/category/1555261.html
+
+
+packages\Grpc.Tools.2.23.0\tools\windows_x64\protoc.exe -I Demo --csharp_out Demo  Demo\Msg.proto --grpc_out Demo --plugin=protoc-gen-grpc=packages\Grpc.Tools.2.23.0\tools\windows_x64\grpc_csharp_plugin.exe
