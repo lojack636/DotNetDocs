@@ -5,7 +5,7 @@ using System.Text;
 namespace Common
 {
     /// <summary>
-    /// Encrypt 的摘要说明。
+    /// Encrypt帮助类
     /// </summary>
     public class DEncrypt
     {
