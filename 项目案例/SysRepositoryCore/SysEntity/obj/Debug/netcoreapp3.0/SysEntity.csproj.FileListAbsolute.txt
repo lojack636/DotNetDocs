@@ -1,0 +1,8 @@
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\bin\Debug\netcoreapp3.0\SysEntity.deps.json
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\bin\Debug\netcoreapp3.0\SysEntity.dll
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\bin\Debug\netcoreapp3.0\SysEntity.pdb
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\obj\Debug\netcoreapp3.0\SysEntity.csprojAssemblyReference.cache
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\obj\Debug\netcoreapp3.0\SysEntity.AssemblyInfoInputs.cache
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\obj\Debug\netcoreapp3.0\SysEntity.AssemblyInfo.cs
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\obj\Debug\netcoreapp3.0\SysEntity.dll
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysEntity\obj\Debug\netcoreapp3.0\SysEntity.pdb

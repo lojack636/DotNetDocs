@@ -1,0 +1,15 @@
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysRepository.deps.json
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysRepository.dll
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysRepository.pdb
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysCommon.dll
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysEntity.dll
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysEntityFrameworkCore.dll
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysEntityFrameworkCore.pdb
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysEntity.pdb
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\bin\Debug\netcoreapp3.0\SysCommon.pdb
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\obj\Debug\netcoreapp3.0\SysRepository.csprojAssemblyReference.cache
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\obj\Debug\netcoreapp3.0\SysRepository.AssemblyInfoInputs.cache
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\obj\Debug\netcoreapp3.0\SysRepository.AssemblyInfo.cs
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\obj\Debug\netcoreapp3.0\SysRepository.csproj.CopyComplete
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\obj\Debug\netcoreapp3.0\SysRepository.dll
+E:\DotNetProjects\项目案例\SysRepositoryCore\SysRepository\obj\Debug\netcoreapp3.0\SysRepository.pdb
