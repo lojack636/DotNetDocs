@@ -1,7 +1,0 @@
-C:\Users\Administrator\source\repos\RabbitMQ.Sample\RabbitMQ.Utils\bin\Debug\netcoreapp3.0\RabbitMQ.Utils.deps.json
-C:\Users\Administrator\source\repos\RabbitMQ.Sample\RabbitMQ.Utils\bin\Debug\netcoreapp3.0\RabbitMQ.Utils.dll
-C:\Users\Administrator\source\repos\RabbitMQ.Sample\RabbitMQ.Utils\bin\Debug\netcoreapp3.0\RabbitMQ.Utils.pdb
-C:\Users\Administrator\source\repos\RabbitMQ.Sample\RabbitMQ.Utils\obj\Debug\netcoreapp3.0\RabbitMQ.Utils.AssemblyInfoInputs.cache
-C:\Users\Administrator\source\repos\RabbitMQ.Sample\RabbitMQ.Utils\obj\Debug\netcoreapp3.0\RabbitMQ.Utils.AssemblyInfo.cs
-C:\Users\Administrator\source\repos\RabbitMQ.Sample\RabbitMQ.Utils\obj\Debug\netcoreapp3.0\RabbitMQ.Utils.dll
-C:\Users\Administrator\source\repos\RabbitMQ.Sample\RabbitMQ.Utils\obj\Debug\netcoreapp3.0\RabbitMQ.Utils.pdb

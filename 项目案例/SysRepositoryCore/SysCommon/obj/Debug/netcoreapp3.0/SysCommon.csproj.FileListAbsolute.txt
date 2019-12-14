@@ -1,8 +1,0 @@
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\bin\Debug\netcoreapp3.0\SysCommon.deps.json
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\bin\Debug\netcoreapp3.0\SysCommon.dll
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\bin\Debug\netcoreapp3.0\SysCommon.pdb
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\obj\Debug\netcoreapp3.0\SysCommon.csprojAssemblyReference.cache
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\obj\Debug\netcoreapp3.0\SysCommon.AssemblyInfoInputs.cache
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\obj\Debug\netcoreapp3.0\SysCommon.AssemblyInfo.cs
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\obj\Debug\netcoreapp3.0\SysCommon.dll
-E:\DotNetProjects\项目案例\SysRepositoryCore\SysCommon\obj\Debug\netcoreapp3.0\SysCommon.pdb

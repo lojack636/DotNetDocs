@@ -1,9 +1,0 @@
-C:\Users\Administrator\source\repos\RabbitMQ-Demo\RabbitMQ.Utils\bin\Debug\RabbitMQ.Utils.dll
-C:\Users\Administrator\source\repos\RabbitMQ-Demo\RabbitMQ.Utils\bin\Debug\RabbitMQ.Utils.pdb
-C:\Users\Administrator\source\repos\RabbitMQ-Demo\RabbitMQ.Utils\obj\Debug\RabbitMQ.Utils.dll
-C:\Users\Administrator\source\repos\RabbitMQ-Demo\RabbitMQ.Utils\obj\Debug\RabbitMQ.Utils.pdb
-C:\Users\Administrator\Desktop\RabbitMQ-Demo\RabbitMQ.Utils\bin\Debug\RabbitMQ.Utils.dll
-C:\Users\Administrator\Desktop\RabbitMQ-Demo\RabbitMQ.Utils\bin\Debug\RabbitMQ.Utils.pdb
-C:\Users\Administrator\Desktop\RabbitMQ-Demo\RabbitMQ.Utils\obj\Debug\RabbitMQ.Utils.csprojAssemblyReference.cache
-C:\Users\Administrator\Desktop\RabbitMQ-Demo\RabbitMQ.Utils\obj\Debug\RabbitMQ.Utils.dll
-C:\Users\Administrator\Desktop\RabbitMQ-Demo\RabbitMQ.Utils\obj\Debug\RabbitMQ.Utils.pdb
