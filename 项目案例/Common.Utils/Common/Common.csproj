@@ -67,12 +67,14 @@
     <Compile Include="ImageHelper.cs" />
     <Compile Include="MailHelper.cs" />
     <Compile Include="PredicateBuilder.cs" />
+    <Compile Include="RestClient.cs" />
     <Compile Include="Security\DEncrypt.cs" />
     <Compile Include="Security\DESEncrypt.cs" />
     <Compile Include="Security\Md5Helper.cs" />
     <Compile Include="Security\RSACryption.cs" />
     <Compile Include="SessionHelper.cs" />
     <Compile Include="SharpZip.cs" />
+    <Compile Include="SqlHelper.cs" />
     <Compile Include="StringConvertHelper.cs" />
     <Compile Include="JsonHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
