@@ -12,7 +12,7 @@ sudo yum install dotnet-sdk-3.1
 - Zip上传、解压插件
 ```
 yum -y install unzip
-yum install lrzsz
+yum -y install lrzsz
 ```
 命令参考：https://blog.csdn.net/bettersun00/article/details/84018953 
 
